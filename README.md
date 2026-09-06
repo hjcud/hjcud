@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/English-252B33?style=flat-square" alt="English" height="24" />
       </p>
       <p>
-        <strong>I build with</strong><br />
+        <strong>I create with</strong><br />
         <img src="https://img.shields.io/badge/Unity-252B33?style=flat-square&amp;logo=unity&amp;logoColor=B9E1F4" alt="Unity" height="24" />
         <img src="https://img.shields.io/badge/Blender-252B33?style=flat-square&amp;logo=blender&amp;logoColor=B9E1F4" alt="Blender" height="24" />
       </p>
