@@ -1,11 +1,9 @@
 <p align="center">
-  <a href="https://steamcommunity.com/id/cuding/" title="Open my Steam profile">
-    <picture>
+  <a href="https://steamcommunity.com/id/cuding/" title="Open my Steam profile"><picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/profile-about-dark-40a1d05a57.svg" />
       <source media="(prefers-color-scheme: light)" srcset="assets/profile-about-light-c627aa0d2e.svg" />
       <img src="assets/profile-about-light-c627aa0d2e.svg" alt="About me: C# and Java; Korean, Japanese and English; Unity and Blender. Open my Steam profile." width="24.5%" />
-    </picture>
-  </a>
+    </picture></a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/profile-workspace-dark-ab7d9d48b8.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/profile-workspace-light-dd9eaa5c3b.svg" />
