@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="430" viewBox="0 0 420 430" role="img" aria-labelledby="title desc">
-<title id="title">BOJ problem solving</title><desc id="desc">BOJ snapshot 2026-09-07: 101 solved problems. Bronze: 46, Silver: 22, Gold: 30, Platinum: 3, Diamond: 0, Ruby: 0. Selected overlapping tags: implementation 44, math 38, graph theory 18, dynamic programming 15.</desc>
+<title id="title">BOJ problem solving</title><desc id="desc">BOJ snapshot 2026-04-17: 101 solved problems. Bronze: 46, Silver: 22, Gold: 30, Platinum: 3, Diamond: 0, Ruby: 0. Selected overlapping tags: implementation 44, math 38, graph theory 18, dynamic programming 15.</desc>
 <style>svg{--text:#1f2328;--muted:#59636e;--accent:#0969a8}text{font-family:Segoe UI,Arial,sans-serif}</style>
 <rect x=".5" y=".5" width="419" height="429" rx="12" fill="none" stroke="#d1d9e0"/>
 <path d="M24 24v19" stroke="#0969a8" stroke-width="3" stroke-linecap="round"/>
@@ -36,5 +36,5 @@
 <text x="218" y="375" font-size="12" fill="#59636e" >Dynamic programming</text><text x="396" y="375" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">15</text>
 <path d="M24 390h372" stroke="#d8dee4"/>
 <text x="24" y="412" font-size="10" fill="#687480" >Selected tags overlap</text>
-<text x="396" y="412" font-size="10" fill="#687480" text-anchor="end">Snapshot · 2026-09-07</text>
+<text x="396" y="412" font-size="10" fill="#687480" text-anchor="end">Snapshot · 2026-04-17</text>
 </svg>

@@ -9,13 +9,13 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/swea-card-bars-dark-653179645f.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/swea-card-bars-light-cda7053176.svg" />
-    <img src="assets/swea-card-bars-light-cda7053176.svg" alt="SWEA snapshot 2026-09-07: 139 solved problems; 158 submitted problems; 8 Master Problems. D1: 22, D2: 31, D3: 58, D4: 21, D5: 5, D6: 2, D7: 0, D8: 0. 2 completed courses, 4 joined clubs." width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/swea-card-bars-dark-94adad6c20.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/swea-card-bars-light-5aa77a6470.svg" />
+    <img src="assets/swea-card-bars-light-5aa77a6470.svg" alt="SWEA snapshot 2026-04-17: 139 solved problems; 158 submitted problems; 8 Master Problems. D1: 22, D2: 31, D3: 58, D4: 21, D5: 5, D6: 2, D7: 0, D8: 0. 2 completed courses, 4 joined clubs." width="49%" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/boj-card-bars-dark-7e0672ed81.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/boj-card-bars-light-720a5d5bed.svg" />
-    <img src="assets/boj-card-bars-light-720a5d5bed.svg" alt="BOJ snapshot 2026-09-07: 101 solved problems. Bronze: 46, Silver: 22, Gold: 30, Platinum: 3, Diamond: 0, Ruby: 0. Selected overlapping tags: implementation 44, math 38, graph theory 18, dynamic programming 15." width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/boj-card-bars-dark-44b488f94e.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/boj-card-bars-light-551fe6e890.svg" />
+    <img src="assets/boj-card-bars-light-551fe6e890.svg" alt="BOJ snapshot 2026-04-17: 101 solved problems. Bronze: 46, Silver: 22, Gold: 30, Platinum: 3, Diamond: 0, Ruby: 0. Selected overlapping tags: implementation 44, math 38, graph theory 18, dynamic programming 15." width="49%" />
   </picture>
 </p>
