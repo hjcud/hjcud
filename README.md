@@ -7,8 +7,8 @@
       <p>한국어<br />日本語<br />English</p>
     </td>
     <td width="75%" align="center" valign="middle">
-      <img src="assets/mypc.png" alt="직접 모델링한 나의 작업 공간" width="100%" /><br />
-      <sub>직접 모델링한 나의 작업 공간</sub>
+      <img src="assets/mypc.png" alt="Blender로 모델링한 나의 작업 공간" width="100%" /><br />
+      <sub>Blender로 모델링한 나의 작업 공간</sub>
     </td>
   </tr>
 </table>
