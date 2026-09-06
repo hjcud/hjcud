@@ -2,8 +2,7 @@
   <tr>
     <td width="25%" valign="middle">
       <p><strong>I code in</strong><br />C# · Java</p>
-      <p><strong>I speak</strong></p>
-      <p>한국어<br />日本語<br />English</p>
+      <p><strong>I speak</strong><br />한국어<br />日本語<br />English</p>
       <p><strong>I build with</strong><br />Unity · Blender</p>
       <p><a href="https://steamcommunity.com/id/cuding/">Steam ↗</a></p>
     </td>
