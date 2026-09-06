@@ -6,27 +6,27 @@
 <text x="36" y="39" font-size="18" fill="#0969a8" font-weight="700">BOJ</text>
 <text x="396" y="38" font-size="12" fill="#59636e" text-anchor="end">Problem solving</text>
 <text x="24" y="99" font-size="38" fill="#1f2328" font-weight="650">101</text><text x="24" y="120" font-size="12" fill="#59636e" >Solved problems</text>
-<path d="M24 136h372 M24 321h372" stroke="#d8dee4"/><text x="24" y="155" font-size="12" fill="#59636e" >Difficulty breakdown</text><text x="396" y="155" font-size="10" fill="#687480" text-anchor="end">0–60 problems</text><text x="24" y="181" font-size="12" fill="#59636e" >Bronze</text>
+<path d="M24 136h372 M24 321h372" stroke="#d8dee4"/><text x="24" y="155" font-size="12" fill="#59636e" >Difficulty breakdown</text><text x="396" y="155" font-size="10" fill="#687480" text-anchor="end">0–60 problems</text><text x="24" y="181" font-size="12" fill="#9a560d" >Bronze</text>
 <rect x="106" y="172" width="245" height="8" rx="3" fill="#eaeef2"/>
-<rect x="106" y="172" width="187.83333333333334" height="8" rx="3" fill="#0969a8"/>
+<rect x="106" y="172" width="187.83333333333334" height="8" rx="3" fill="#9a560d"/>
 <text x="396" y="181" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">46</text>
-<text x="24" y="199" font-size="12" fill="#59636e" >Silver</text>
+<text x="24" y="199" font-size="12" fill="#526e85" >Silver</text>
 <rect x="106" y="190" width="245" height="8" rx="3" fill="#eaeef2"/>
-<rect x="106" y="190" width="89.83333333333333" height="8" rx="3" fill="#397da3"/>
+<rect x="106" y="190" width="89.83333333333333" height="8" rx="3" fill="#526e85"/>
 <text x="396" y="199" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">22</text>
-<text x="24" y="217" font-size="12" fill="#59636e" >Gold</text>
+<text x="24" y="217" font-size="12" fill="#896300" >Gold</text>
 <rect x="106" y="208" width="245" height="8" rx="3" fill="#eaeef2"/>
-<rect x="106" y="208" width="122.5" height="8" rx="3" fill="#397da3"/>
+<rect x="106" y="208" width="122.5" height="8" rx="3" fill="#896300"/>
 <text x="396" y="217" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">30</text>
-<text x="24" y="235" font-size="12" fill="#59636e" >Platinum</text>
+<text x="24" y="235" font-size="12" fill="#087a59" >Platinum</text>
 <rect x="106" y="226" width="245" height="8" rx="3" fill="#eaeef2"/>
-<rect x="106" y="226" width="12.25" height="8" rx="3" fill="#397da3"/>
+<rect x="106" y="226" width="12.25" height="8" rx="3" fill="#087a59"/>
 <text x="396" y="235" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">3</text>
-<text x="24" y="253" font-size="12" fill="#59636e" >Diamond</text>
+<text x="24" y="253" font-size="12" fill="#096c99" >Diamond</text>
 <rect x="106" y="244" width="245" height="8" rx="3" fill="#eaeef2"/>
 
 <text x="396" y="253" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">0</text>
-<text x="24" y="271" font-size="12" fill="#59636e" >Ruby</text>
+<text x="24" y="271" font-size="12" fill="#aa3658" >Ruby</text>
 <rect x="106" y="262" width="245" height="8" rx="3" fill="#eaeef2"/>
 
 <text x="396" y="271" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">0</text>

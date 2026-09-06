@@ -48,13 +48,14 @@ ${text(24,412,footer,10,p.faint)}
 ${text(396,412,'Snapshot · '+date,10,p.faint,'text-anchor="end"')}
 </svg>\n`;
 }
-function bars(entries,p,scale) {
+function bars(entries,p,scale,colors) {
   const max = Math.max(...entries.map(([,n])=>n));
   return entries.map(([label,n],i)=>{
     const y = 177+i*18;
-    return `${text(24,y+4,label,12,p.muted)}
+    const color=colors?.[i] ?? (n===max?p.accent:p.bar);
+    return `${text(24,y+4,label,12,colors?.[i] ?? p.muted)}
 <rect x="106" y="${y-5}" width="245" height="8" rx="3" fill="${p.track}"/>
-${n?`<rect x="106" y="${y-5}" width="${245*n/scale}" height="8" rx="3" fill="${n===max?p.accent:p.bar}"/>`:''}
+${n?`<rect x="106" y="${y-5}" width="${245*n/scale}" height="8" rx="3" fill="${color}"/>`:''}
 ${text(396,y+4,n,13,p.text,'text-anchor="end" font-weight="600"')}`;
   }).join('\n');
 }
@@ -87,7 +88,7 @@ ${text(24,348,'Courses completed',12,p.muted)}${text(186,348,swData.completedCou
 ${text(218,348,'Clubs joined',12,p.muted)}${text(396,348,swData.joinedClubs,13,p.text,'text-anchor="end" font-weight="600"')}`,'',swData.updatedAt);
   const boj = card('BOJ',descriptions.boj,p,
     `${text(24,99,bojTotal,38,p.text,'font-weight="650"')}${text(24,120,'Solved problems',12,p.muted)}
-${divider}${graphHeading}${bars(tiers,p,scale)}
+${divider}${graphHeading}${bars(tiers,p,scale,p.tier)}
 ${text(24,348,'Implementation',12,p.muted)}${text(186,348,tags.implementation,13,p.text,'text-anchor="end" font-weight="600"')}
 ${text(218,348,'Math',12,p.muted)}${text(396,348,tags.math,13,p.text,'text-anchor="end" font-weight="600"')}
 ${text(24,375,'Graph theory',12,p.muted)}${text(186,375,tags.graphTheory,13,p.text,'text-anchor="end" font-weight="600"')}
