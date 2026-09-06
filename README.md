@@ -19,3 +19,26 @@
     <img src="assets/boj-card-bars-light-551fe6e890.svg" alt="BOJ snapshot 2026-04-17: 101 solved problems. Bronze: 46, Silver: 22, Gold: 30, Platinum: 3, Diamond: 0, Ruby: 0. Selected overlapping tags: implementation 44, math 38, graph theory 18, dynamic programming 15." width="49%" />
   </picture>
 </p>
+
+## Projects
+
+<details>
+<summary><strong>In Progress</strong></summary>
+
+<!-- 진행 중인 프로젝트: 아래에 - [프로젝트 이름](링크) — 한 줄 설명 형식으로 추가하세요. -->
+
+</details>
+
+<details>
+<summary><strong>Completed</strong></summary>
+
+<!-- 종료된 프로젝트: 아래에 - [프로젝트 이름](링크) — 한 줄 설명 형식으로 추가하세요. -->
+
+</details>
+
+<details>
+<summary><strong>Planned</strong></summary>
+
+<!-- 계획 중인 프로젝트: 아래에 - 프로젝트 이름 — 한 줄 설명 형식으로 추가하세요. -->
+
+</details>

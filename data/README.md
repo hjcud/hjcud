@@ -28,3 +28,13 @@ node scripts/render-practice-cards.cjs
 ## 소개 카드와 작업 공간 이미지
 
 소개 카드의 문구와 디자인은 `scripts/render-profile-cards.cjs`에서 관리합니다. `assets/mypc.png`를 교체해서 push하면 소개 카드도 자동으로 다시 생성됩니다. 원본 PNG는 그대로 보관하며, SVG 카드에 포함해 표시합니다. 로컬 생성 명령은 `node scripts/render-profile-cards.cjs`입니다.
+
+## 프로젝트 목록 수정하기
+
+[프로필 README](../README.md)의 `Projects` 아래에서 해당 상태의 `<details>` 안에 항목을 추가하세요. `In Progress`는 진행 중, `Completed`는 종료, `Planned`는 계획 중인 프로젝트입니다. 각 목록은 처음에는 접혀 있으며 제목을 클릭하면 펼쳐집니다.
+
+```markdown
+- [프로젝트 이름](https://github.com/사용자/저장소) — 한 줄 설명
+```
+
+아직 저장소가 없는 계획은 `- 프로젝트 이름 — 한 줄 설명`처럼 링크 없이 적어도 됩니다. `<summary>` 다음과 `</details>` 앞의 빈 줄은 유지하세요. 상태가 바뀌면 해당 항목을 다른 목록으로 옮기면 됩니다. 카드 생성 작업은 이 목록을 유지합니다.
