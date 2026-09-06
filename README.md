@@ -30,5 +30,9 @@
 </table>
 
 <p align="center">
-  <img src="assets/swea-card.svg" alt="SWEA activity snapshot, September 7, 2026: 139 solved problems, 158 submitted problems, and 8 Master Problems. D1: 22, D2: 31, D3: 58, D4: 21, D5: 5, D6: 2, D7: 0, D8: 0." width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/swea-card.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/swea-card-light.svg" />
+    <img src="assets/swea-card-light.svg" alt="SWEA activity snapshot, September 7, 2026: 139 solved problems, 158 submitted problems, and 8 Master Problems. D1: 22, D2: 31, D3: 58, D4: 21, D5: 5, D6: 2, D7: 0, D8: 0." width="100%" />
+  </picture>
 </p>

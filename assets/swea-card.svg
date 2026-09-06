@@ -2,7 +2,7 @@
   <title id="title">SWEA problem solving activity</title>
   <desc id="desc">Screenshot snapshot from September 7, 2026. 139 solved problems across difficulty levels, 158 submitted problems, 8 Master Problems, 2 completed courses and 4 joined clubs. D1:22, D2:31, D3:58, D4:21, D5:5, D6:2, D7:0, D8:0.</desc>
   <style>text{font-family:Segoe UI,Arial,sans-serif}.label{font-size:13px;fill:#99a7b5}.count{font-size:15px;font-weight:600}.metric{font-size:35px;font-weight:650;fill:#edf4fa}</style>
-  <rect x=".5" y=".5" width="839" height="349" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x=".5" y=".5" width="839" height="349" rx="12" fill="none" stroke="#30363d"/>
   <path d="M36 30v21" stroke="#b9e1f4" stroke-width="3" stroke-linecap="round"/>
   <text x="49" y="45" fill="#b9e1f4" font-size="18" font-weight="700" letter-spacing="1">SWEA</text>
   <text x="120" y="45" fill="#99a7b5" font-size="14">Problem solving</text>
