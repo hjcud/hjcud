@@ -23,22 +23,45 @@
 ## Projects
 
 <details>
-<summary><strong>In Progress</strong></summary>
+<summary><strong>In Progress</strong> · 4</summary>
 
-<!-- 진행 중인 프로젝트: 아래에 - [프로젝트 이름](링크) — 한 줄 설명 형식으로 추가하세요. -->
-
-</details>
-
-<details>
-<summary><strong>Completed</strong></summary>
-
-<!-- 종료된 프로젝트: 아래에 - [프로젝트 이름](링크) — 한 줄 설명 형식으로 추가하세요. -->
+| Project | Description | Core Tech |
+| :--- | :--- | :--- |
+| [Shinjuku-Live-Street](https://github.com/hjcud/Shinjuku-Live-Street) | VRChat street-performance world with shared live equipment and simulated traffic. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-unity-dark.svg"><img src="assets/project-tech-unity-light.svg" alt="Unity" title="Unity" width="64" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-csharp-dark.svg"><img src="assets/project-tech-csharp-light.svg" alt="C#" title="C#" width="55" height="24"></picture><br><sub>UdonSharp</sub> |
+| [Idea2Strategy](https://github.com/Idea2Strategy/Idea2Strategy) | Platform for creating, backtesting, and running virtual trading strategies. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-spring-dark.svg"><img src="assets/project-tech-spring-light.svg" alt="Spring" title="Spring" width="78" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-python-dark.svg"><img src="assets/project-tech-python-light.svg" alt="Python" title="Python" width="78" height="24"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-react-dark.svg"><img src="assets/project-tech-react-light.svg" alt="React" title="React" width="70" height="24"></picture> |
+| [Stackcord](https://github.com/kcrmin/Stackcord) | Codex collaboration tooling for shared project context, Git coordination, and release checks. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-go-dark.svg"><img src="assets/project-tech-go-light.svg" alt="Go" title="Go" width="52" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-python-dark.svg"><img src="assets/project-tech-python-light.svg" alt="Python" title="Python" width="78" height="24"></picture> |
+| [yoiko_core](https://github.com/hjcud/yoiko_core) | Cobblemon server mod with progression, trading, rewards, events, and turtle racing. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-java-dark.svg"><img src="assets/project-tech-java-light.svg" alt="Java" title="Java" width="65" height="24"></picture><br><sub>NeoForge</sub> |
 
 </details>
 
 <details>
-<summary><strong>Planned</strong></summary>
+<summary><strong>On Hold</strong> · 1</summary>
 
-<!-- 계획 중인 프로젝트: 아래에 - 프로젝트 이름 — 한 줄 설명 형식으로 추가하세요. -->
+| Project | Description | Core Tech |
+| :--- | :--- | :--- |
+| [Smash Avatar](https://github.com/SmashAvatar/vrchat-project)<br><sub>Private</sub> | VRChat multiplayer project with custom movement, team management, and synchronized player UI. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-unity-dark.svg"><img src="assets/project-tech-unity-light.svg" alt="Unity" title="Unity" width="64" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-csharp-dark.svg"><img src="assets/project-tech-csharp-light.svg" alt="C#" title="C#" width="55" height="24"></picture><br><sub>UdonSharp</sub> |
+
+</details>
+
+<details>
+<summary><strong>Completed</strong> · 6</summary>
+
+| Project | Description | Core Tech |
+| :--- | :--- | :--- |
+| [Shimanami-Ekranoplan](https://github.com/hjcud/Shimanami-Ekranoplan) | Ekranoplan flight simulator with VR and desktop controls, built for interactive exhibitions. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-unity-dark.svg"><img src="assets/project-tech-unity-light.svg" alt="Unity" title="Unity" width="64" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-csharp-dark.svg"><img src="assets/project-tech-csharp-light.svg" alt="C#" title="C#" width="55" height="24"></picture><br><sub>UdonSharp</sub> |
+| [hinasaki-shaders](https://github.com/hjcud/hinasaki-shaders) | Unity shaders for tears, refraction, pixelation, and holographic sights. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-unity-dark.svg"><img src="assets/project-tech-unity-light.svg" alt="Unity" title="Unity" width="64" height="24"></picture><br><sub>ShaderLab · HLSL</sub> |
+| [yoiko_rank](https://github.com/hjcud/yoiko_rank)<br><sub>Private</sub> | Minecraft server mod for player ranks, cosmetic badges, and daily rewards. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-java-dark.svg"><img src="assets/project-tech-java-light.svg" alt="Java" title="Java" width="65" height="24"></picture><br><sub>NeoForge</sub> |
+| [yoikogacha](https://github.com/hjcud/yoikogacha)<br><sub>Private</sub> | NeoForge mod prototype for Yoiko Server. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-java-dark.svg"><img src="assets/project-tech-java-light.svg" alt="Java" title="Java" width="65" height="24"></picture><br><sub>NeoForge</sub> |
+| [NeoForge-YoikoServerMod-1.21.1](https://github.com/hjcud/NeoForge-YoikoServerMod-1.21.1)<br><sub>Private</sub> | Minecraft 1.21.1 server mod with custom mystery-gift items. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-java-dark.svg"><img src="assets/project-tech-java-light.svg" alt="Java" title="Java" width="65" height="24"></picture><br><sub>NeoForge</sub> |
+| [DengonGame](https://github.com/hjcud/DengonGame)<br><sub>Private</sub> | Details not yet documented. | — |
+
+</details>
+
+<details>
+<summary><strong>Planned</strong> · 1</summary>
+
+| Project | Description | Core Tech |
+| :--- | :--- | :--- |
+| **Pixel Monster Dungeon**<br><sub>Working title</sub> | Draw pixel monsters, let AI interpret their traits, and build dungeons for automated battles. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-unity-dark.svg"><img src="assets/project-tech-unity-light.svg" alt="Unity" title="Unity" width="64" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-csharp-dark.svg"><img src="assets/project-tech-csharp-light.svg" alt="C#" title="C#" width="55" height="24"></picture><br><sub>Planned stack</sub> |
 
 </details>
