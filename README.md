@@ -3,6 +3,8 @@
     <td width="25%" valign="middle">
       <p><strong>TOOLBOX</strong></p>
       <p>Unity<br />Blender<br />C# · Java</p>
+      <p><strong>LANGUAGES</strong></p>
+      <p>한국어<br />日本語<br />English</p>
     </td>
     <td width="75%" align="center" valign="middle">
       <img src="assets/mypc.png" alt="직접 모델링한 나의 작업 공간" width="100%" /><br />
