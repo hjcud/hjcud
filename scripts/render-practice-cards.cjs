@@ -51,7 +51,7 @@ ${text(24,313,'Implementation',12,p.muted)}${text(186,313,44,13,p.text,'text-anc
 ${text(218,313,'Math',12,p.muted)}${text(396,313,38,13,p.text,'text-anchor="end" font-weight="600"')}
 ${text(24,340,'Graph theory',12,p.muted)}${text(186,340,18,13,p.text,'text-anchor="end" font-weight="600"')}
 ${text(218,340,'Dynamic programming',12,p.muted)}${text(396,340,15,13,p.text,'text-anchor="end" font-weight="600"')}`,'Selected tags overlap');
-  const suffix=theme==='dark'?'':'-light';
+  const suffix=`-compact-${theme}`;
   for (const [name,svg] of [['swea',sw],['boj',boj]]) fs.writeFileSync(path.join(__dirname,`../assets/${name}-card${suffix}.svg`),svg);
 }
 console.log(`Rendered both themes: SWEA ${swea.reduce((a,b)=>a+b,0)}, BOJ ${tiers.reduce((a,b)=>a+b[1],0)}`);
