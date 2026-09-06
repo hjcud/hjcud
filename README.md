@@ -44,16 +44,14 @@
 </details>
 
 <details>
-<summary><strong>Completed</strong> · 6</summary>
+<summary><strong>Completed</strong> · 4</summary>
 
 | Project | Description | Core Tech |
 | :--- | :--- | :--- |
 | [Shimanami-Ekranoplan](https://github.com/hjcud/Shimanami-Ekranoplan) | Ekranoplan flight simulator with VR and desktop controls, built for interactive exhibitions. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-unity-dark.svg"><img src="assets/project-tech-unity-light.svg" alt="Unity" title="Unity" width="64" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-csharp-dark.svg"><img src="assets/project-tech-csharp-light.svg" alt="C#" title="C#" width="55" height="24"></picture><br><sub>UdonSharp</sub> |
 | [hinasaki-shaders](https://github.com/hjcud/hinasaki-shaders) | Unity shaders for tears, refraction, pixelation, and holographic sights. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-unity-dark.svg"><img src="assets/project-tech-unity-light.svg" alt="Unity" title="Unity" width="64" height="24"></picture><br><sub>ShaderLab · HLSL</sub> |
 | [yoiko_rank](https://github.com/hjcud/yoiko_rank)<br><sub>Private</sub> | Minecraft server mod for player ranks, cosmetic badges, and daily rewards. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-java-dark.svg"><img src="assets/project-tech-java-light.svg" alt="Java" title="Java" width="65" height="24"></picture><br><sub>NeoForge</sub> |
-| [yoikogacha](https://github.com/hjcud/yoikogacha)<br><sub>Private</sub> | NeoForge mod prototype for Yoiko Server. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-java-dark.svg"><img src="assets/project-tech-java-light.svg" alt="Java" title="Java" width="65" height="24"></picture><br><sub>NeoForge</sub> |
 | [NeoForge-YoikoServerMod-1.21.1](https://github.com/hjcud/NeoForge-YoikoServerMod-1.21.1)<br><sub>Private</sub> | Minecraft 1.21.1 server mod with custom mystery-gift items. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-java-dark.svg"><img src="assets/project-tech-java-light.svg" alt="Java" title="Java" width="65" height="24"></picture><br><sub>NeoForge</sub> |
-| [DengonGame](https://github.com/hjcud/DengonGame)<br><sub>Private</sub> | Details not yet documented. | — |
 
 </details>
 
