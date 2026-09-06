@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="350" viewBox="0 0 840 350" role="img" aria-labelledby="title desc">
+  <title id="title">SWEA problem solving activity</title>
+  <desc id="desc">Screenshot snapshot from September 7, 2026. 139 solved problems across difficulty levels, 158 submitted problems, 8 Master Problems, 2 completed courses and 4 joined clubs. D1:22, D2:31, D3:58, D4:21, D5:5, D6:2, D7:0, D8:0.</desc>
+  <style>text{font-family:Segoe UI,Arial,sans-serif}.label{font-size:13px;fill:#99a7b5}.count{font-size:15px;font-weight:600}.metric{font-size:35px;font-weight:650;fill:#edf4fa}</style>
+  <rect x=".5" y=".5" width="839" height="349" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <path d="M36 30v21" stroke="#b9e1f4" stroke-width="3" stroke-linecap="round"/>
+  <text x="49" y="45" fill="#b9e1f4" font-size="18" font-weight="700" letter-spacing="1">SWEA</text>
+  <text x="120" y="45" fill="#99a7b5" font-size="14">Problem solving</text>
+  <text x="36" y="109" class="metric">139</text>
+  <text x="36" y="132" class="label">Solved problems</text>
+  <path d="M285 83v49 M553 83v49" stroke="#252e38"/>
+  <text x="312" y="109" class="metric">158</text>
+  <text x="312" y="132" class="label">Submitted problems</text>
+  <text x="580" y="109" class="metric">8</text>
+  <text x="580" y="132" class="label">Master Problems</text>
+  <path d="M36 156h768" stroke="#252e38"/>
+  <text x="36" y="178" class="label">Solved by difficulty</text>
+  <text x="70" y="222.9655172413793" text-anchor="middle" class="count" fill="#e6edf3">22</text>
+    <rect x="36" y="232.9655172413793" width="68" height="25.034482758620687" rx="3" fill="#6b9bb4"/>
+    <text x="70" y="281" text-anchor="middle" class="label">D1</text>
+<text x="167" y="212.72413793103448" text-anchor="middle" class="count" fill="#e6edf3">31</text>
+    <rect x="133" y="222.72413793103448" width="68" height="35.275862068965516" rx="3" fill="#6b9bb4"/>
+    <text x="167" y="281" text-anchor="middle" class="label">D2</text>
+<text x="264" y="182" text-anchor="middle" class="count" fill="#e6edf3">58</text>
+    <rect x="230" y="192" width="68" height="66" rx="3" fill="#b9e1f4"/>
+    <text x="264" y="281" text-anchor="middle" class="label">D3</text>
+<text x="361" y="224.10344827586206" text-anchor="middle" class="count" fill="#e6edf3">21</text>
+    <rect x="327" y="234.10344827586206" width="68" height="23.896551724137932" rx="3" fill="#6b9bb4"/>
+    <text x="361" y="281" text-anchor="middle" class="label">D4</text>
+<text x="458" y="242.31034482758622" text-anchor="middle" class="count" fill="#e6edf3">5</text>
+    <rect x="424" y="252.31034482758622" width="68" height="5.689655172413794" rx="3" fill="#6b9bb4"/>
+    <text x="458" y="281" text-anchor="middle" class="label">D5</text>
+<text x="555" y="245.72413793103448" text-anchor="middle" class="count" fill="#e6edf3">2</text>
+    <rect x="521" y="255.72413793103448" width="68" height="2.2758620689655173" rx="3" fill="#6b9bb4"/>
+    <text x="555" y="281" text-anchor="middle" class="label">D6</text>
+<text x="652" y="248" text-anchor="middle" class="count" fill="#647180">0</text>
+    <rect x="618" y="258" width="68" height="2" rx="1" fill="#303a46"/>
+    <text x="652" y="281" text-anchor="middle" class="label">D7</text>
+<text x="749" y="248" text-anchor="middle" class="count" fill="#647180">0</text>
+    <rect x="715" y="258" width="68" height="2" rx="1" fill="#303a46"/>
+    <text x="749" y="281" text-anchor="middle" class="label">D8</text>
+  <path d="M36 299h768" stroke="#252e38"/>
+  <text x="36" y="326" fill="#99a7b5" font-size="12">2 courses completed · 4 clubs joined</text>
+  <text x="804" y="326" text-anchor="end" fill="#748291" font-size="11">Snapshot · 2026-09-07</text>
+</svg>
