@@ -5,6 +5,8 @@ on:
     branches: [main]
     paths:
       - 'data/practice-stats.json'
+      - 'assets/mypc.png'
+      - 'assets/profile-icons/*.svg'
       - 'scripts/**'
       - '.github/workflows/update-practice-cards.yml'
   workflow_dispatch:
@@ -30,11 +32,13 @@ jobs:
       - name: Check generator
         run: node --test scripts/render-practice-cards.test.cjs
       - name: Generate cards
-        run: node scripts/render-practice-cards.cjs
+        run: |
+          node scripts/render-practice-cards.cjs
+          node scripts/render-profile-cards.cjs
       - name: Commit updated cards
         shell: bash
         run: |
-          git add -- README.md 'assets/*-card-bars-*.svg'
+          git add -- README.md 'assets/*-card-bars-*.svg' 'assets/profile-*.svg'
           if git diff --cached --quiet; then
             echo "Cards are already up to date."
             exit 0

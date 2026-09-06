@@ -24,3 +24,7 @@
 ```sh
 node scripts/render-practice-cards.cjs
 ```
+
+## 소개 카드와 작업 공간 이미지
+
+소개 카드의 문구와 디자인은 `scripts/render-profile-cards.cjs`에서 관리합니다. `assets/mypc.png`를 교체해서 push하면 소개 카드도 자동으로 다시 생성됩니다. 원본 PNG는 그대로 보관하며, SVG 카드에 포함해 표시합니다. 로컬 생성 명령은 `node scripts/render-profile-cards.cjs`입니다.

@@ -1,33 +1,17 @@
-<table>
-  <tr>
-    <td width="25%" valign="middle">
-      <p>
-        <strong>I code in</strong><br />
-        <img src="https://custom-icon-badges.demolab.com/badge/C%23-252B33?style=flat-square&amp;logo=cs2&amp;logoColor=B9E1F4" alt="C#" height="24" />
-        <img src="https://custom-icon-badges.demolab.com/badge/Java-252B33?style=flat-square&amp;logo=java&amp;logoColor=B9E1F4" alt="Java" height="24" />
-      </p>
-      <p>
-        <strong>I speak</strong><br />
-        <img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-252B33?style=flat-square" alt="한국어" height="24" />
-        <img src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-252B33?style=flat-square" alt="日本語" height="24" /><br />
-        <img src="https://img.shields.io/badge/English-252B33?style=flat-square" alt="English" height="24" />
-      </p>
-      <p>
-        <strong>I create with</strong><br />
-        <img src="https://img.shields.io/badge/Unity-252B33?style=flat-square&amp;logo=unity&amp;logoColor=B9E1F4" alt="Unity" height="24" />
-        <img src="https://img.shields.io/badge/Blender-252B33?style=flat-square&amp;logo=blender&amp;logoColor=B9E1F4" alt="Blender" height="24" />
-      </p>
-      <p>
-        <strong>I play on</strong><br />
-        <a href="https://steamcommunity.com/id/cuding/"><img src="https://img.shields.io/badge/Steam-171a21?style=flat-square&amp;logo=steam&amp;logoColor=white" alt="Steam" height="24" /></a>
-      </p>
-    </td>
-    <td width="75%" align="center" valign="middle">
-      <img src="assets/mypc.png" alt="My workspace, modeled in Blender" width="100%" /><br />
-      <sub>My workspace, modeled in Blender</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://steamcommunity.com/id/cuding/" title="Open my Steam profile">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/profile-about-dark-40a1d05a57.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/profile-about-light-c627aa0d2e.svg" />
+      <img src="assets/profile-about-light-c627aa0d2e.svg" alt="About me: C# and Java; Korean, Japanese and English; Unity and Blender. Open my Steam profile." width="24.5%" />
+    </picture>
+  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-workspace-dark-ab7d9d48b8.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/profile-workspace-light-dd9eaa5c3b.svg" />
+    <img src="assets/profile-workspace-light-dd9eaa5c3b.svg" alt="My workspace, modeled in Blender" width="73.5%" />
+  </picture>
+</p>
 
 <p align="center">
   <picture>
