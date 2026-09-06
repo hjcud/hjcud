@@ -1,0 +1,36 @@
+{
+  "swea": {
+    "updatedAt": "2026-09-07",
+    "solvedByDifficulty": {
+      "D1": 22,
+      "D2": 31,
+      "D3": 58,
+      "D4": 21,
+      "D5": 5,
+      "D6": 2,
+      "D7": 0,
+      "D8": 0
+    },
+    "submittedProblems": 158,
+    "masterProblems": 8,
+    "completedCourses": 2,
+    "joinedClubs": 4
+  },
+  "boj": {
+    "updatedAt": "2026-09-07",
+    "solvedByTier": {
+      "Bronze": 46,
+      "Silver": 22,
+      "Gold": 30,
+      "Platinum": 3,
+      "Diamond": 0,
+      "Ruby": 0
+    },
+    "selectedTags": {
+      "implementation": 44,
+      "math": 38,
+      "graphTheory": 18,
+      "dynamicProgramming": 15
+    }
+  }
+}

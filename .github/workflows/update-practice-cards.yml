@@ -1,0 +1,45 @@
+name: Update practice cards
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/practice-stats.json'
+      - 'scripts/**'
+      - '.github/workflows/update-practice-cards.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-practice-cards
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check generator
+        run: node --test scripts/render-practice-cards.test.cjs
+      - name: Generate cards
+        run: node scripts/render-practice-cards.cjs
+      - name: Commit updated cards
+        shell: bash
+        run: |
+          git add -- README.md 'assets/*-card-bars-*.svg'
+          if git diff --cached --quiet; then
+            echo "Cards are already up to date."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "Update practice cards from data"
+          git push origin HEAD:main
