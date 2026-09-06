@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="430" viewBox="0 0 420 430" role="img" aria-labelledby="title desc">
+<title id="title">SWEA problem solving</title><desc id="desc">Screenshot snapshot: 139 solved problems; 158 submitted problems; 8 Master Problems. D1 22, D2 31, D3 58, D4 21, D5 5, D6 2, D7 0, D8 0. 2 completed courses, 4 joined clubs.</desc>
+<style>svg{--text:#1f2328;--muted:#59636e;--accent:#0969a8}text{font-family:Segoe UI,Arial,sans-serif}</style>
+<rect x=".5" y=".5" width="419" height="429" rx="12" fill="none" stroke="#d1d9e0"/>
+<path d="M24 24v19" stroke="#0969a8" stroke-width="3" stroke-linecap="round"/>
+<text x="36" y="39" font-size="18" fill="#0969a8" font-weight="700">SWEA</text>
+<text x="396" y="38" font-size="12" fill="#59636e" text-anchor="end">Problem solving</text>
+<text x="24" y="99" font-size="38" fill="#1f2328" font-weight="650">139</text><text x="24" y="120" font-size="12" fill="#59636e" >Solved problems</text>
+<text x="184" y="97" font-size="28" fill="#1f2328" font-weight="600">158</text><text x="184" y="120" font-size="11" fill="#59636e" >Submitted problems</text>
+<text x="320" y="97" font-size="28" fill="#1f2328" font-weight="600">8</text><text x="320" y="120" font-size="11" fill="#59636e" >Master Problems</text>
+<path d="M24 136h372 M24 321h372" stroke="#d8dee4"/><text x="24" y="155" font-size="12" fill="#59636e" >Difficulty breakdown</text><text x="396" y="155" font-size="10" fill="#687480" text-anchor="end">0–60 problems</text><text x="24" y="181" font-size="12" fill="#59636e" >D1</text>
+<rect x="106" y="172" width="245" height="8" rx="3" fill="#eaeef2"/>
+<rect x="106" y="172" width="89.83333333333333" height="8" rx="3" fill="#397da3"/>
+<text x="396" y="181" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">22</text>
+<text x="24" y="199" font-size="12" fill="#59636e" >D2</text>
+<rect x="106" y="190" width="245" height="8" rx="3" fill="#eaeef2"/>
+<rect x="106" y="190" width="126.58333333333333" height="8" rx="3" fill="#397da3"/>
+<text x="396" y="199" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">31</text>
+<text x="24" y="217" font-size="12" fill="#59636e" >D3</text>
+<rect x="106" y="208" width="245" height="8" rx="3" fill="#eaeef2"/>
+<rect x="106" y="208" width="236.83333333333334" height="8" rx="3" fill="#0969a8"/>
+<text x="396" y="217" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">58</text>
+<text x="24" y="235" font-size="12" fill="#59636e" >D4</text>
+<rect x="106" y="226" width="245" height="8" rx="3" fill="#eaeef2"/>
+<rect x="106" y="226" width="85.75" height="8" rx="3" fill="#397da3"/>
+<text x="396" y="235" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">21</text>
+<text x="24" y="253" font-size="12" fill="#59636e" >D5</text>
+<rect x="106" y="244" width="245" height="8" rx="3" fill="#eaeef2"/>
+<rect x="106" y="244" width="20.416666666666668" height="8" rx="3" fill="#397da3"/>
+<text x="396" y="253" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">5</text>
+<text x="24" y="271" font-size="12" fill="#59636e" >D6</text>
+<rect x="106" y="262" width="245" height="8" rx="3" fill="#eaeef2"/>
+<rect x="106" y="262" width="8.166666666666666" height="8" rx="3" fill="#397da3"/>
+<text x="396" y="271" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">2</text>
+<text x="24" y="289" font-size="12" fill="#59636e" >D7</text>
+<rect x="106" y="280" width="245" height="8" rx="3" fill="#eaeef2"/>
+
+<text x="396" y="289" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">0</text>
+<text x="24" y="307" font-size="12" fill="#59636e" >D8</text>
+<rect x="106" y="298" width="245" height="8" rx="3" fill="#eaeef2"/>
+
+<text x="396" y="307" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">0</text>
+<text x="24" y="348" font-size="12" fill="#59636e" >Courses completed</text><text x="186" y="348" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">2</text>
+<text x="218" y="348" font-size="12" fill="#59636e" >Clubs joined</text><text x="396" y="348" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">4</text>
+<path d="M24 390h372" stroke="#d8dee4"/>
+<text x="24" y="412" font-size="10" fill="#687480" ></text>
+<text x="396" y="412" font-size="10" fill="#687480" text-anchor="end">Snapshot · 2026-09-07</text>
+</svg>

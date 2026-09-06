@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="430" viewBox="0 0 420 430" role="img" aria-labelledby="title desc">
+<title id="title">BOJ problem solving</title><desc id="desc">Screenshot snapshot: 101 solved problems. Bronze 46, Silver 22, Gold 30, Platinum 3, Diamond 0, Ruby 0. Selected overlapping tags: implementation 44, math 38, graph theory 18, dynamic programming 15. Account tier is not provided.</desc>
+<style>svg{--text:#1f2328;--muted:#59636e;--accent:#0969a8}text{font-family:Segoe UI,Arial,sans-serif}</style>
+<rect x=".5" y=".5" width="419" height="429" rx="12" fill="none" stroke="#d1d9e0"/>
+<path d="M24 24v19" stroke="#0969a8" stroke-width="3" stroke-linecap="round"/>
+<text x="36" y="39" font-size="18" fill="#0969a8" font-weight="700">BOJ</text>
+<text x="396" y="38" font-size="12" fill="#59636e" text-anchor="end">Problem solving</text>
+<text x="24" y="99" font-size="38" fill="#1f2328" font-weight="650">101</text><text x="24" y="120" font-size="12" fill="#59636e" >Solved problems</text>
+<path d="M24 136h372 M24 321h372" stroke="#d8dee4"/><text x="24" y="155" font-size="12" fill="#59636e" >Difficulty breakdown</text><text x="396" y="155" font-size="10" fill="#687480" text-anchor="end">0–60 problems</text><text x="24" y="181" font-size="12" fill="#59636e" >Bronze</text>
+<rect x="106" y="172" width="245" height="8" rx="3" fill="#eaeef2"/>
+<rect x="106" y="172" width="187.83333333333334" height="8" rx="3" fill="#0969a8"/>
+<text x="396" y="181" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">46</text>
+<text x="24" y="199" font-size="12" fill="#59636e" >Silver</text>
+<rect x="106" y="190" width="245" height="8" rx="3" fill="#eaeef2"/>
+<rect x="106" y="190" width="89.83333333333333" height="8" rx="3" fill="#397da3"/>
+<text x="396" y="199" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">22</text>
+<text x="24" y="217" font-size="12" fill="#59636e" >Gold</text>
+<rect x="106" y="208" width="245" height="8" rx="3" fill="#eaeef2"/>
+<rect x="106" y="208" width="122.5" height="8" rx="3" fill="#397da3"/>
+<text x="396" y="217" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">30</text>
+<text x="24" y="235" font-size="12" fill="#59636e" >Platinum</text>
+<rect x="106" y="226" width="245" height="8" rx="3" fill="#eaeef2"/>
+<rect x="106" y="226" width="12.25" height="8" rx="3" fill="#397da3"/>
+<text x="396" y="235" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">3</text>
+<text x="24" y="253" font-size="12" fill="#59636e" >Diamond</text>
+<rect x="106" y="244" width="245" height="8" rx="3" fill="#eaeef2"/>
+
+<text x="396" y="253" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">0</text>
+<text x="24" y="271" font-size="12" fill="#59636e" >Ruby</text>
+<rect x="106" y="262" width="245" height="8" rx="3" fill="#eaeef2"/>
+
+<text x="396" y="271" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">0</text>
+<text x="24" y="348" font-size="12" fill="#59636e" >Implementation</text><text x="186" y="348" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">44</text>
+<text x="218" y="348" font-size="12" fill="#59636e" >Math</text><text x="396" y="348" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">38</text>
+<text x="24" y="375" font-size="12" fill="#59636e" >Graph theory</text><text x="186" y="375" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">18</text>
+<text x="218" y="375" font-size="12" fill="#59636e" >Dynamic programming</text><text x="396" y="375" font-size="13" fill="#1f2328" text-anchor="end" font-weight="600">15</text>
+<path d="M24 390h372" stroke="#d8dee4"/>
+<text x="24" y="412" font-size="10" fill="#687480" >Selected tags overlap</text>
+<text x="396" y="412" font-size="10" fill="#687480" text-anchor="end">Snapshot · 2026-09-07</text>
+</svg>

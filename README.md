@@ -31,13 +31,13 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/swea-card-compact-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/swea-card-compact-light.svg" />
-    <img src="assets/swea-card-compact-light.svg" alt="SWEA activity snapshot, September 7, 2026: 139 solved problems, 158 submitted problems, and 8 Master Problems. D1: 22, D2: 31, D3: 58, D4: 21, D5: 5, D6: 2, D7: 0, D8: 0." width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/swea-card-bars-dark-fabe981d5f.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/swea-card-bars-light-f7008cc553.svg" />
+    <img src="assets/swea-card-bars-light-f7008cc553.svg" alt="SWEA activity snapshot, September 7, 2026: 139 solved problems, 158 submitted problems, and 8 Master Problems. D1: 22, D2: 31, D3: 58, D4: 21, D5: 5, D6: 2, D7: 0, D8: 0." width="49%" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/boj-card-compact-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/boj-card-compact-light.svg" />
-    <img src="assets/boj-card-compact-light.svg" alt="BOJ activity snapshot, September 7, 2026: 101 solved problems. Bronze: 46, Silver: 22, Gold: 30, Platinum: 3, Diamond: 0, Ruby: 0. Selected overlapping tags: implementation 44, math 38, graph theory 18, dynamic programming 15." width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/boj-card-bars-dark-e4c3f076c4.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/boj-card-bars-light-3b01487053.svg" />
+    <img src="assets/boj-card-bars-light-3b01487053.svg" alt="BOJ activity snapshot, September 7, 2026: 101 solved problems. Bronze: 46, Silver: 22, Gold: 30, Platinum: 3, Diamond: 0, Ruby: 0. Selected overlapping tags: implementation 44, math 38, graph theory 18, dynamic programming 15." width="49%" />
   </picture>
 </p>
