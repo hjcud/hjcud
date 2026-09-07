@@ -23,7 +23,7 @@
 ## Projects
 
 <details>
-<summary><strong>In Progress</strong> · 4</summary>
+<summary><strong>In Progress</strong> · 5</summary>
 
 | Project | Description | Core Tech |
 | :--- | :--- | :--- |
@@ -31,6 +31,7 @@
 | [Idea2Strategy](https://github.com/Idea2Strategy/Idea2Strategy) | Platform for creating, backtesting, and running virtual trading strategies. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-spring-dark.svg"><img src="assets/project-tech-spring-light.svg" alt="Spring" title="Spring" width="78" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-python-dark.svg"><img src="assets/project-tech-python-light.svg" alt="Python" title="Python" width="78" height="24"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-react-dark.svg"><img src="assets/project-tech-react-light.svg" alt="React" title="React" width="70" height="24"></picture> |
 | [Stackcord](https://github.com/kcrmin/Stackcord) | Codex collaboration tooling for shared project context, Git coordination, and release checks. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-go-dark.svg"><img src="assets/project-tech-go-light.svg" alt="Go" title="Go" width="52" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-python-dark.svg"><img src="assets/project-tech-python-light.svg" alt="Python" title="Python" width="78" height="24"></picture> |
 | [yoiko_core](https://github.com/hjcud/yoiko_core) | Cobblemon server mod with progression, trading, rewards, events, and turtle racing. | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-java-dark.svg"><img src="assets/project-tech-java-light.svg" alt="Java" title="Java" width="65" height="24"></picture><br><sub>NeoForge</sub> |
+| [Pixerin](https://github.com/hjcud/Pixerin) | Desktop pixel art editor for drawing by hand and making selection-scoped AI edits. | Electron · JavaScript |
 
 </details>
 
