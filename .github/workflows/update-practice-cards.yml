@@ -6,6 +6,7 @@ on:
     paths:
       - 'data/practice-stats.json'
       - 'assets/mypc.png'
+      - 'assets/mypc_wire.png'
       - 'assets/profile-icons/*.svg'
       - 'scripts/**'
       - '.github/workflows/update-practice-cards.yml'

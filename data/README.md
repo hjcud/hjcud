@@ -29,6 +29,8 @@ node scripts/render-practice-cards.cjs
 
 소개 카드의 문구와 디자인은 `scripts/render-profile-cards.cjs`에서 관리합니다. `assets/mypc.png`를 교체해서 push하면 소개 카드도 자동으로 다시 생성됩니다. 원본 PNG는 그대로 보관하며, SVG 카드에 포함해 표시합니다. 로컬 생성 명령은 `node scripts/render-profile-cards.cjs`입니다.
 
+작업 공간의 스캔 효과에는 `assets/mypc_wire.png`를 사용합니다. 렌더 이미지와 같은 구도·크기로 교체하면 됩니다. 9초 주기로 약 4초간 와이어프레임 띠가 지나가고 나머지 시간에는 원본을 보여줍니다. 동작 줄이기 설정에서는 정지 이미지를 표시합니다. 원본 PNG는 변경하지 않고 SVG 필터와 마스크로 선의 색과 표시 영역을 조정합니다.
+
 ## 프로젝트 목록 수정하기
 
 [프로필 README](../README.md)의 `Projects` 아래에서 해당 상태의 `<details>` 안에 표 행을 추가하세요. `In Progress`는 진행 중, `On Hold`는 보류, `Completed`는 종료, `Planned`는 계획 중인 프로젝트입니다. 각 목록은 처음에는 접혀 있으며 제목을 클릭하면 펼쳐집니다. 제목 옆 숫자는 프로젝트 개수이므로 행을 추가하거나 옮길 때 함께 수정하세요.

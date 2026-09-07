@@ -6,6 +6,7 @@ const readmePath=path.join(root,'README.md');
 let readme=fs.readFileSync(readmePath,'utf8');
 const previous=[...readme.matchAll(/assets\/(profile-(?:about|workspace)-(?:dark|light)(?:-[a-f0-9]+)?\.svg)/g)].map(m=>m[1]);
 const png=fs.readFileSync(path.join(assets,'mypc.png')).toString('base64');
+const wire=fs.readFileSync(path.join(assets,'mypc_wire.png')).toString('base64');
 const palettes={
   dark:{text:'#edf4fa',muted:'#99a7b5',accent:'#b9e1f4',border:'#30363d',line:'#252e38',chip:'#202a35'},
   light:{text:'#1f2328',muted:'#59636e',accent:'#0969a8',border:'#d1d9e0',line:'#d8dee4',chip:'#eaeef2'}
@@ -47,9 +48,30 @@ ${chip('Steam',20,347,73,p,'steam')}`,
     'I code in C# and Java. I speak Korean, Japanese and English. I create with Unity and Blender. I play on Steam.');
   // Embed the owner's PNG without changing its pixels; SVGs cannot load sibling images on GitHub.
   const workspace=frame(630,'WORKSPACE',p,
-    `<image x="16" y="66" width="598" height="296" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,${png}"/>
+    `<defs>
+<image id="workspace-render" x="16" y="66" width="598" height="296" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,${png}"/>
+<mask id="workspace-silhouette" maskUnits="userSpaceOnUse" x="16" y="66" width="598" height="296" style="mask-type:alpha"><use href="#workspace-render"/></mask>
+<linearGradient id="scan-fade"><stop offset="0" stop-color="white" stop-opacity="0"/><stop offset=".35" stop-color="white"/><stop offset=".65" stop-color="white"/><stop offset="1" stop-color="white" stop-opacity="0"/></linearGradient>
+<mask id="scan-window" maskUnits="userSpaceOnUse" x="16" y="66" width="598" height="296"><rect class="workspace-scan" x="0" y="66" width="110" height="296" fill="url(#scan-fade)"/></mask>
+<filter id="wire-color" color-interpolation-filters="sRGB">
+<!-- Retain dark mesh lines while suppressing the lighter viewport grid and axes. -->
+<feColorMatrix type="matrix" values="0 0 0 0 0.42  0 0 0 0 0.82  0 0 0 0 1  -3 -3 -3 1 0"/>
+</filter>
+</defs>
+<style>
+@keyframes workspace-sweep {0%,18%{transform:translateX(-120px)}62%,100%{transform:translateX(650px)}}
+.workspace-scan{transform:translateX(-120px);animation:workspace-sweep 9s linear infinite}
+@media (prefers-reduced-motion:reduce){.workspace-effect{display:none}.workspace-scan{animation:none}}
+</style>
+<use href="#workspace-render"/>
+<g class="workspace-effect" mask="url(#workspace-silhouette)">
+<g mask="url(#scan-window)">
+<rect x="16" y="66" width="598" height="296" fill="#061c2b" opacity=".6"/>
+<image x="16" y="66" width="598" height="296" preserveAspectRatio="xMidYMid meet" href="data:image/png;base64,${wire}" filter="url(#wire-color)"/>
+</g>
+</g>
 ${text(315,382,'My workspace, modeled in Blender',12,p.muted,'text-anchor="middle"')}`,
-    'My workspace, modeled in Blender.');
+    'My workspace, modeled in Blender, with a periodic wireframe scan.');
   for(const [name,svg] of [['about',about],['workspace',workspace]]) {
     const hash=createHash('sha256').update(svg).digest('hex').slice(0,10);
     const file=`profile-${name}-${theme}-${hash}.svg`;
