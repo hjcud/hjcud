@@ -37,15 +37,13 @@ ${content}
 const output=new Map();
 for(const [theme,p] of Object.entries(palettes)) {
   const about=frame(210,'ABOUT',p,
-    `${text(20,86,'I code in',13,p.muted,'font-weight="600"')}
-${chip('C#',20,98,55,p,'csharp')}${chip('Java',81,98,65,p,'java')}
-${text(20,157,'I speak',13,p.muted,'font-weight="600"')}
-${chip('한국어',20,169,62,p)}${chip('日本語',88,169,62,p)}${chip('English',20,201,66,p)}
-${text(20,261,'I create with',13,p.muted,'font-weight="600"')}
-${chip('Unity',20,273,64,p,'unity')}${chip('Blender',90,273,82,p,'blender')}
-${text(20,335,'I play on',13,p.muted,'font-weight="600"')}
-${chip('Steam',20,347,73,p,'steam')}`,
-    'I code in C# and Java. I speak Korean, Japanese and English. I create with Unity and Blender. I play on Steam.');
+    `${text(20,102,'I code in',13,p.muted,'font-weight="600"')}
+${chip('C#',20,114,55,p,'csharp')}${chip('Java',81,114,65,p,'java')}
+${text(20,198,'I speak',13,p.muted,'font-weight="600"')}
+${chip('한국어',20,210,62,p)}${chip('日本語',88,210,62,p)}${chip('English',20,242,66,p)}
+${text(20,326,'I create with',13,p.muted,'font-weight="600"')}
+${chip('Unity',20,338,64,p,'unity')}${chip('Blender',90,338,82,p,'blender')}`,
+    'I code in C# and Java. I speak Korean, Japanese and English. I create with Unity and Blender.');
   // Embed the owner's PNG without changing its pixels; SVGs cannot load sibling images on GitHub.
   const workspace=frame(630,'WORKSPACE',p,
     `<defs>
