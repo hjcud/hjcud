@@ -1,6 +1,6 @@
 <!-- project-timeline:start -->
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-timeline-dark-c2b874bb9e.svg" /><img src="assets/profile-timeline-light-5970089382.svg" alt="2026.10 — Present: Miniworld — Co-planning and development; 2026.09 — Present: Pixel Mat — Solo development; 2026.08 — Present: 바로 영업 — App and web frontend development; 2026.07 — 2026.08: Idea2Strategy — Frontend and backend development; 2024.12 — 2025.01: Shimanami Ekranoplan — Simulation programming; 2024.04 — Present: Shinjuku Live Street — Gameplay programming and synchronization" width="100%" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-timeline-dark-33a80ff9c1.svg" /><img src="assets/profile-timeline-light-af58deaf1c.svg" alt="Miniworld — Co-planning and development; Pixel Mat — Solo development; 바로 영업 — App and web frontend development; Idea2Strategy — Frontend and backend development; Shimanami Ekranoplan — Simulation programming; Shinjuku Live Street — Gameplay programming and synchronization" width="100%" /></picture>
 </p>
 <!-- project-timeline:end -->
 
