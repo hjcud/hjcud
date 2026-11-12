@@ -16,27 +16,27 @@
 <thead><tr><th align="left">Project</th><th align="left">Description</th><th align="left">Core Tech</th></tr></thead>
 <tbody>
 <tr>
-  <td nowrap><a href="https://github.com/hjcud/Shinjuku-Live-Street">Shinjuku-Live-Street</a></td>
+  <td><a href="https://github.com/hjcud/Shinjuku-Live-Street">Shinjuku-Live-Street</a></td>
   <td>VRChat street-performance world with shared live equipment and simulated traffic.<br><sub><strong>My role:</strong> Gameplay programming and synchronization.</sub></td>
   <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-unity-dark.svg"><img src="assets/project-tech-unity-light.svg" alt="Unity" title="Unity" width="64" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-csharp-dark.svg"><img src="assets/project-tech-csharp-light.svg" alt="C#" title="C#" width="55" height="24"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-udonsharp-dark-786c19cce8.svg"><img src="assets/project-tech-udonsharp-light-ace13c33b0.svg" alt="UdonSharp" title="UdonSharp" width="96" height="24"></picture></td>
 </tr>
 <tr>
-  <td nowrap><a href="https://github.com/hjcud/yoiko_core">yoiko_core</a></td>
+  <td><a href="https://github.com/hjcud/yoiko_core">yoiko_core</a></td>
   <td>Cobblemon server mod with progression, trading, rewards, events, and turtle racing.<br><sub><strong>My role:</strong> Solo development.</sub></td>
   <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-java-dark.svg"><img src="assets/project-tech-java-light.svg" alt="Java" title="Java" width="65" height="24"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-neoforge-dark-5320b46ae6.svg"><img src="assets/project-tech-neoforge-light-ee6059bb1d.svg" alt="NeoForge" title="NeoForge" width="89" height="24"></picture></td>
 </tr>
 <tr>
-  <td nowrap><a href="https://github.com/hjcud/Pixerin">Pixel Mat</a></td>
+  <td><a href="https://github.com/hjcud/Pixerin">Pixel Mat</a></td>
   <td>Desktop pixel art editor for drawing by hand and making selection-scoped AI edits.<br><sub><strong>My role:</strong> Solo development.</sub></td>
   <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-electron-dark.svg"><img src="assets/project-tech-electron-light.svg" alt="Electron" title="Electron" width="80" height="24"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-javascript-dark.svg"><img src="assets/project-tech-javascript-light.svg" alt="JavaScript" title="JavaScript" width="92" height="24"></picture></td>
 </tr>
 <tr>
-  <td nowrap><a href="https://github.com/project-miniworld/fantasy-sim">Miniworld</a>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-private-dark.svg"><img src="assets/project-tech-private-light.svg" alt="Private repository" title="Private repository" width="60" height="18" align="absmiddle"></picture></td>
+  <td><a href="https://github.com/project-miniworld/fantasy-sim">Miniworld</a><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-private-dark.svg"><img src="assets/project-tech-private-light.svg" alt="Private repository" title="Private repository" width="60" height="18"></picture></td>
   <td>2D fantasy world simulation with maps and simulated citizens.<br><sub><strong>My role:</strong> Co-planning and development.</sub></td>
   <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-unity-dark.svg"><img src="assets/project-tech-unity-light.svg" alt="Unity" title="Unity" width="64" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-csharp-dark.svg"><img src="assets/project-tech-csharp-light.svg" alt="C#" title="C#" width="55" height="24"></picture></td>
 </tr>
 <tr>
-  <td nowrap>바로 영업&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-private-dark.svg"><img src="assets/project-tech-private-light.svg" alt="Private repository" title="Private repository" width="60" height="18" align="absmiddle"></picture></td>
+  <td>바로 영업<br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-private-dark.svg"><img src="assets/project-tech-private-light.svg" alt="Private repository" title="Private repository" width="60" height="18"></picture></td>
   <td>CRM for sales teams, with a web dashboard and an Android app.<br><sub><strong>My role:</strong> App and web frontend development.</sub></td>
   <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-spring-dark.svg"><img src="assets/project-tech-spring-light.svg" alt="Spring" title="Spring" width="78" height="24"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-kotlin-dark.svg"><img src="assets/project-tech-kotlin-light.svg" alt="Kotlin" title="Kotlin" width="68" height="24"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-typescript-dark.svg"><img src="assets/project-tech-typescript-light.svg" alt="TypeScript" title="TypeScript" width="92" height="24"></picture></td>
 </tr>
@@ -52,7 +52,7 @@
 <thead><tr><th align="left">Project</th><th align="left">Description</th><th align="left">Core Tech</th></tr></thead>
 <tbody>
 <tr>
-  <td nowrap><a href="https://github.com/SmashAvatar/vrchat-project">Smash Avatar</a>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-private-dark.svg"><img src="assets/project-tech-private-light.svg" alt="Private repository" title="Private repository" width="60" height="18" align="absmiddle"></picture></td>
+  <td><a href="https://github.com/SmashAvatar/vrchat-project">Smash Avatar</a><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-private-dark.svg"><img src="assets/project-tech-private-light.svg" alt="Private repository" title="Private repository" width="60" height="18"></picture></td>
   <td>VRChat multiplayer project with custom movement, team management, and synchronized player UI.<br><sub><strong>My role:</strong> Movement and behavior implementation.</sub></td>
   <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-unity-dark.svg"><img src="assets/project-tech-unity-light.svg" alt="Unity" title="Unity" width="64" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-csharp-dark.svg"><img src="assets/project-tech-csharp-light.svg" alt="C#" title="C#" width="55" height="24"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-udonsharp-dark-786c19cce8.svg"><img src="assets/project-tech-udonsharp-light-ace13c33b0.svg" alt="UdonSharp" title="UdonSharp" width="96" height="24"></picture></td>
 </tr>
@@ -68,32 +68,32 @@
 <thead><tr><th align="left">Project</th><th align="left">Description</th><th align="left">Core Tech</th></tr></thead>
 <tbody>
 <tr>
-  <td nowrap><a href="https://github.com/Idea2Strategy/Idea2Strategy">Idea2Strategy</a></td>
+  <td><a href="https://github.com/Idea2Strategy/Idea2Strategy">Idea2Strategy</a></td>
   <td>Platform for creating, backtesting, and running virtual trading strategies.<br><sub><strong>My role:</strong> Frontend and backend development.</sub></td>
   <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-spring-dark.svg"><img src="assets/project-tech-spring-light.svg" alt="Spring" title="Spring" width="78" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-python-dark.svg"><img src="assets/project-tech-python-light.svg" alt="Python" title="Python" width="78" height="24"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-react-dark.svg"><img src="assets/project-tech-react-light.svg" alt="React" title="React" width="70" height="24"></picture></td>
 </tr>
 <tr>
-  <td nowrap><a href="https://github.com/kcrmin/Stackcord">Stackcord</a></td>
+  <td><a href="https://github.com/kcrmin/Stackcord">Stackcord</a></td>
   <td>Codex collaboration tooling for shared project context, Git coordination, and release checks.<br><sub><strong>My role:</strong> Collaborative workflow co-design.</sub></td>
   <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-go-dark.svg"><img src="assets/project-tech-go-light.svg" alt="Go" title="Go" width="52" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-python-dark.svg"><img src="assets/project-tech-python-light.svg" alt="Python" title="Python" width="78" height="24"></picture></td>
 </tr>
 <tr>
-  <td nowrap><a href="https://github.com/hjcud/Shimanami-Ekranoplan">Shimanami-Ekranoplan</a></td>
+  <td><a href="https://github.com/hjcud/Shimanami-Ekranoplan">Shimanami-Ekranoplan</a></td>
   <td>Ekranoplan flight simulator with VR and desktop controls, built for interactive exhibitions.<br><sub><strong>My role:</strong> Simulation programming.</sub></td>
   <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-unity-dark.svg"><img src="assets/project-tech-unity-light.svg" alt="Unity" title="Unity" width="64" height="24"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-csharp-dark.svg"><img src="assets/project-tech-csharp-light.svg" alt="C#" title="C#" width="55" height="24"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-udonsharp-dark-786c19cce8.svg"><img src="assets/project-tech-udonsharp-light-ace13c33b0.svg" alt="UdonSharp" title="UdonSharp" width="96" height="24"></picture></td>
 </tr>
 <tr>
-  <td nowrap><a href="https://github.com/hjcud/hinasaki-shaders">hinasaki-shaders</a></td>
+  <td><a href="https://github.com/hjcud/hinasaki-shaders">hinasaki-shaders</a></td>
   <td>Unity shaders for tears, refraction, pixelation, and holographic sights.<br><sub><strong>My role:</strong> Commissioned shader development.</sub></td>
   <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-unity-dark.svg"><img src="assets/project-tech-unity-light.svg" alt="Unity" title="Unity" width="64" height="24"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-shaderlab-dark.svg"><img src="assets/project-tech-shaderlab-light.svg" alt="ShaderLab" title="ShaderLab" width="91" height="24"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-hlsl-dark.svg"><img src="assets/project-tech-hlsl-light.svg" alt="HLSL" title="HLSL" width="62" height="24"></picture></td>
 </tr>
 <tr>
-  <td nowrap><a href="https://github.com/hjcud/yoiko_rank">yoiko_rank</a>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-private-dark.svg"><img src="assets/project-tech-private-light.svg" alt="Private repository" title="Private repository" width="60" height="18" align="absmiddle"></picture></td>
+  <td><a href="https://github.com/hjcud/yoiko_rank">yoiko_rank</a><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-private-dark.svg"><img src="assets/project-tech-private-light.svg" alt="Private repository" title="Private repository" width="60" height="18"></picture></td>
   <td>Minecraft server mod for player ranks, cosmetic badges, and daily rewards.<br><sub><strong>My role:</strong> Solo development.</sub></td>
   <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-java-dark.svg"><img src="assets/project-tech-java-light.svg" alt="Java" title="Java" width="65" height="24"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-neoforge-dark-5320b46ae6.svg"><img src="assets/project-tech-neoforge-light-ee6059bb1d.svg" alt="NeoForge" title="NeoForge" width="89" height="24"></picture></td>
 </tr>
 <tr>
-  <td nowrap><a href="https://github.com/hjcud/NeoForge-YoikoServerMod-1.21.1">NeoForge-YoikoServerMod-1.21.1</a>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-private-dark.svg"><img src="assets/project-tech-private-light.svg" alt="Private repository" title="Private repository" width="60" height="18" align="absmiddle"></picture></td>
+  <td><a href="https://github.com/hjcud/NeoForge-YoikoServerMod-1.21.1">NeoForge-YoikoServerMod-1.21.1</a><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-private-dark.svg"><img src="assets/project-tech-private-light.svg" alt="Private repository" title="Private repository" width="60" height="18"></picture></td>
   <td>Minecraft 1.21.1 server mod with custom mystery-gift items.<br><sub><strong>My role:</strong> Solo development.</sub></td>
   <td><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-java-dark.svg"><img src="assets/project-tech-java-light.svg" alt="Java" title="Java" width="65" height="24"></picture><br><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tech-neoforge-dark-5320b46ae6.svg"><img src="assets/project-tech-neoforge-light-ee6059bb1d.svg" alt="NeoForge" title="NeoForge" width="89" height="24"></picture></td>
 </tr>
