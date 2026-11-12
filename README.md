@@ -7,12 +7,6 @@
   </picture>
 </p>
 
-<!-- project-timeline:start -->
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-timeline-dark-6560b82be6.svg" /><img src="assets/profile-timeline-light-4b37e44d8a.svg" alt="Miniworld: 2026.10 — Present; Pixel Mat: 2026.09 — Present; 바로 영업: 2026.08 — Present; Idea2Strategy: 2026.07 — 2026.08; Shimanami Ekranoplan: 2024.12 — 2025.01; Shinjuku Live Street: 2024.04 — Present" width="100%" /></picture>
-</p>
-<!-- project-timeline:end -->
-
 ## Projects
 
 <details>

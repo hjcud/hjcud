@@ -4,7 +4,6 @@ on:
   push:
     branches: [main]
     paths:
-      - 'data/project-timeline.json'
       - 'assets/mypc.png'
       - 'assets/mypc_wire.png'
       - 'assets/profile-icons/*.svg'
@@ -34,7 +33,6 @@ jobs:
         run: |
           node scripts/render-profile-cards.cjs
           node scripts/render-extra-tech-badges.cjs
-          node scripts/render-project-timeline.cjs
       - name: Commit updated cards
         shell: bash
         run: |

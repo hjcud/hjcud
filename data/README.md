@@ -1,15 +1,5 @@
 # 소개 카드와 작업 공간 이미지
 
-## 프로젝트 년표
-
-`project-timeline.json`에서 소개 카드 아래, Projects 바로 위의 년표를 관리합니다. 웹 포트폴리오처럼 공통 연도 축 위에 프로젝트 기간을 막대로 표시합니다. 월별 눈금을 쓰며, 진행 중인 프로젝트는 화살표로 표시합니다.
-
-루트의 `through`는 진행 중인 막대를 표시할 기준 연월입니다. `projects`의 `name`은 이름, `start`와 `end`는 시작·종료 연월(`YYYY-MM`)이며, 진행 중이면 `end`를 `null`로 둡니다. 종료 연월은 해당 월을 포함합니다. `period`는 대체 텍스트와 SVG 설명에 쓰는 기간이고 `role`은 담당 역할 기록입니다. 이름은 왼쪽에 고정해 표시하며 역할 설명은 아래 프로젝트 표에서 확인합니다.
-
-확인한 활동기간만 입력하며 저장소 생성일을 프로젝트 시작일로 대신하지 않습니다. Pixel Mat의 2026년 9월과 Miniworld의 2026년 10월은 사용자가 지정한 관련 작업 대화 시작 시점 기준입니다. 바로 영업은 사용자가 알려준 8월 시작을 유지했습니다.
-
-이 파일을 수정해 push하면 GitHub Actions가 라이트·다크 카드를 갱신합니다. 로컬에서는 `node scripts/render-project-timeline.cjs`를 실행합니다.
-
 ## 소개 카드
 
 소개 카드의 문구와 디자인은 `scripts/render-profile-cards.cjs`에서 관리합니다. `assets/mypc.png`를 교체해서 push하면 소개 카드도 자동으로 다시 생성됩니다. 원본 PNG는 그대로 보관하며, SVG 카드에 포함해 표시합니다. 로컬 생성 명령은 `node scripts/render-profile-cards.cjs`입니다.
