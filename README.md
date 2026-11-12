@@ -1,5 +1,5 @@
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-about-dark-27b64790e0.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/profile-about-light-556d2159f9.svg" /><img src="assets/profile-about-light-556d2159f9.svg" alt="About me: C# and Java; Korean, Japanese and English; Unity and Blender." width="24.5%" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-about-dark-d7ce532e86.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/profile-about-light-971d2dc8b7.svg" /><img src="assets/profile-about-light-971d2dc8b7.svg" alt="About me: C#, Java and UdonSharp (U#); Korean, Japanese and English; Unity and Blender." width="24.5%" /></picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/profile-workspace-dark-674586d186.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/profile-workspace-light-43b9d04044.svg" />
