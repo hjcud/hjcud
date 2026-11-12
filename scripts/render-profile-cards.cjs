@@ -40,8 +40,8 @@ for(const [theme,p] of Object.entries(palettes)) {
     `${text(20,102,'I code in',13,p.muted,'font-weight="600"')}
 ${chip('C#',20,114,55,p,'csharp')}${chip('Java',81,114,65,p,'java')}
 ${chip('U#',20,146,57,p,'udonsharp')}
-${text(20,198,'I speak',13,p.muted,'font-weight="600"')}
-${chip('한국어',20,210,62,p)}${chip('日本語',88,210,62,p)}${chip('English',20,242,66,p)}
+${text(20,214,'I speak',13,p.muted,'font-weight="600"')}
+${chip('한국어',20,226,62,p)}${chip('日本語',88,226,62,p)}${chip('English',20,258,66,p)}
 ${text(20,326,'I create with',13,p.muted,'font-weight="600"')}
 ${chip('Unity',20,338,64,p,'unity')}${chip('Blender',90,338,82,p,'blender')}`,
     'I code in C#, Java and UdonSharp (U#). I speak Korean, Japanese and English. I create with Unity and Blender.');
