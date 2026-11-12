@@ -1,22 +1,21 @@
-name: Update practice cards
+name: Update profile cards
 
 on:
   push:
     branches: [main]
     paths:
-      - 'data/practice-stats.json'
       - 'assets/mypc.png'
       - 'assets/mypc_wire.png'
       - 'assets/profile-icons/*.svg'
       - 'scripts/**'
-      - '.github/workflows/update-practice-cards.yml'
+      - '.github/workflows/update-profile-cards.yml'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-practice-cards
+  group: update-profile-cards
   cancel-in-progress: false
 
 jobs:
@@ -30,21 +29,17 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Check generator
-        run: node --test scripts/render-practice-cards.test.cjs
-      - name: Generate cards
-        run: |
-          node scripts/render-practice-cards.cjs
-          node scripts/render-profile-cards.cjs
+      - name: Generate profile cards
+        run: node scripts/render-profile-cards.cjs
       - name: Commit updated cards
         shell: bash
         run: |
-          git add -- README.md 'assets/*-card-bars-*.svg' 'assets/profile-*.svg'
+          git add -- README.md 'assets/profile-*.svg'
           if git diff --cached --quiet; then
             echo "Cards are already up to date."
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m "Update practice cards from data"
+          git commit -m "Update profile cards from data"
           git push origin HEAD:main
