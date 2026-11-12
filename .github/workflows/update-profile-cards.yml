@@ -4,6 +4,7 @@ on:
   push:
     branches: [main]
     paths:
+      - 'data/project-timeline.json'
       - 'assets/mypc.png'
       - 'assets/mypc_wire.png'
       - 'assets/profile-icons/*.svg'
@@ -30,11 +31,14 @@ jobs:
         with:
           node-version: '22'
       - name: Generate profile cards
-        run: node scripts/render-profile-cards.cjs
+        run: |
+          node scripts/render-profile-cards.cjs
+          node scripts/render-extra-tech-badges.cjs
+          node scripts/render-project-timeline.cjs
       - name: Commit updated cards
         shell: bash
         run: |
-          git add -- README.md 'assets/profile-*.svg'
+          git add -- README.md 'assets/profile-*.svg' 'assets/project-tech-*.svg'
           if git diff --cached --quiet; then
             echo "Cards are already up to date."
             exit 0
