@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="584" viewBox="0 0 840 584" role="img" aria-labelledby="title desc">
+<title id="title">Project timeline</title><desc id="desc">2026.10 — Present: Miniworld. Co-planning and development 2026.09 — Present: Pixel Mat. Solo development 2026.08 — Present: 바로 영업. App and web frontend development 2026.07 — 2026.08: Idea2Strategy. Frontend and backend development 2024.12 — 2025.01: Shimanami Ekranoplan. Simulation programming 2024.04 — Present: Shinjuku Live Street. Gameplay programming and synchronization</desc>
+<style>text{font-family:Segoe UI,Arial,Malgun Gothic,Meiryo,sans-serif}</style>
+<rect x=".5" y=".5" width="839" height="583" rx="12" fill="none" stroke="#d1d9e0"/>
+<path d="M20 24v19" stroke="#0969a8" stroke-width="3" stroke-linecap="round"/>
+<text x="32" y="39" font-size="18" fill="#0969a8" font-weight="700">PROJECT TIMELINE</text>
+<text x="820" y="39" font-size="12" fill="#59636e" text-anchor="end">Selected projects</text>
+<path d="M20 58h800M216 91v410" fill="none" stroke="#d8dee4" stroke-width="1.5"/>
+<text x="193" y="96" font-size="12" fill="#59636e" text-anchor="end">2026.10 — Present</text>
+<circle cx="216" cy="92" r="4" fill="#0969a8"/>
+<text x="240" y="97" font-size="16" fill="#1f2328" font-weight="600">Miniworld</text>
+<text x="240" y="121" font-size="12" fill="#59636e" >Co-planning and development</text>
+<text x="193" y="178" font-size="12" fill="#59636e" text-anchor="end">2026.09 — Present</text>
+<circle cx="216" cy="174" r="4" fill="#0969a8"/>
+<text x="240" y="179" font-size="16" fill="#1f2328" font-weight="600">Pixel Mat</text>
+<text x="240" y="203" font-size="12" fill="#59636e" >Solo development</text>
+<text x="193" y="260" font-size="12" fill="#59636e" text-anchor="end">2026.08 — Present</text>
+<circle cx="216" cy="256" r="4" fill="#0969a8"/>
+<text x="240" y="261" font-size="16" fill="#1f2328" font-weight="600">바로 영업</text>
+<text x="240" y="285" font-size="12" fill="#59636e" >App and web frontend development</text>
+<text x="193" y="342" font-size="12" fill="#59636e" text-anchor="end">2026.07 — 2026.08</text>
+<circle cx="216" cy="338" r="4" fill="#0969a8"/>
+<text x="240" y="343" font-size="16" fill="#1f2328" font-weight="600">Idea2Strategy</text>
+<text x="240" y="367" font-size="12" fill="#59636e" >Frontend and backend development</text>
+<text x="193" y="424" font-size="12" fill="#59636e" text-anchor="end">2024.12 — 2025.01</text>
+<circle cx="216" cy="420" r="4" fill="#0969a8"/>
+<text x="240" y="425" font-size="16" fill="#1f2328" font-weight="600">Shimanami Ekranoplan</text>
+<text x="240" y="449" font-size="12" fill="#59636e" >Simulation programming</text>
+<text x="193" y="506" font-size="12" fill="#59636e" text-anchor="end">2024.04 — Present</text>
+<circle cx="216" cy="502" r="4" fill="#0969a8"/>
+<text x="240" y="507" font-size="16" fill="#1f2328" font-weight="600">Shinjuku Live Street</text>
+<text x="240" y="531" font-size="12" fill="#59636e" >Gameplay programming and synchronization</text>
+</svg>

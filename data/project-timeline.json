@@ -1,20 +1,38 @@
 [
   {
+    "name": "Miniworld",
+    "start": "2026-10",
+    "period": "2026.10 — Present",
+    "role": "Co-planning and development"
+  },
+  {
+    "name": "Pixel Mat",
+    "start": "2026-09",
+    "period": "2026.09 — Present",
+    "role": "Solo development"
+  },
+  {
+    "name": "바로 영업",
+    "start": "2026-08",
+    "period": "2026.08 — Present",
+    "role": "App and web frontend development"
+  },
+  {
     "name": "Idea2Strategy",
     "start": "2026-07",
     "period": "2026.07 — 2026.08",
-    "role": "Strategy editor UI and backend APIs"
+    "role": "Frontend and backend development"
   },
   {
     "name": "Shimanami Ekranoplan",
     "start": "2024-12",
     "period": "2024.12 — 2025.01",
-    "role": "Flight simulation, controls, and state synchronization"
+    "role": "Simulation programming"
   },
   {
     "name": "Shinjuku Live Street",
     "start": "2024-04",
     "period": "2024.04 — Present",
-    "role": "Vehicle simulation, live equipment, and state synchronization"
+    "role": "Gameplay programming and synchronization"
   }
 ]

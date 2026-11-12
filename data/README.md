@@ -6,6 +6,8 @@
 
 이 파일을 수정해 push하면 GitHub Actions가 라이트·다크 카드를 갱신합니다. 로컬에서는 `node scripts/render-project-timeline.cjs`를 실행합니다.
 
+Pixel Mat의 2026년 9월과 Miniworld의 2026년 10월은 사용자가 지정한 기준인 관련 작업 대화의 시작 시점으로 정리했습니다. 바로 영업은 사용자가 알려준 8월 시작을 연월 단위로 표시했습니다. 타임라인과 프로젝트 표의 역할은 짧은 담당 영역으로 유지합니다.
+
 ## 소개 카드
 
 소개 카드의 문구와 디자인은 `scripts/render-profile-cards.cjs`에서 관리합니다. `assets/mypc.png`를 교체해서 push하면 소개 카드도 자동으로 다시 생성됩니다. 원본 PNG는 그대로 보관하며, SVG 카드에 포함해 표시합니다. 로컬 생성 명령은 `node scripts/render-profile-cards.cjs`입니다.
