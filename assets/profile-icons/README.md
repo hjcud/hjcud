@@ -13,3 +13,5 @@ Static SVG logos extracted from the Shields.io / Custom Icon Badges images previ
 Brand names and logos identify the corresponding tools and services. Card generation reads these local files; it makes no network requests.
 
 The `../project-tech-*-dark.svg` and `../project-tech-*-light.svg` assets embed these logos with readable text labels for the project tables. Their colors match the profile cards.
+
+Kotlin and TypeScript: Simple Icons, downloaded 2026-11-12. ShaderLab uses the existing Unity logo. HLSL uses a generic code glyph rather than a product logo.
