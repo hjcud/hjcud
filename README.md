@@ -1,9 +1,3 @@
-<!-- project-timeline:start -->
-<p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-timeline-dark-33a80ff9c1.svg" /><img src="assets/profile-timeline-light-af58deaf1c.svg" alt="Miniworld — Co-planning and development; Pixel Mat — Solo development; 바로 영업 — App and web frontend development; Idea2Strategy — Frontend and backend development; Shimanami Ekranoplan — Simulation programming; Shinjuku Live Street — Gameplay programming and synchronization" width="100%" /></picture>
-</p>
-<!-- project-timeline:end -->
-
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-about-dark-27b64790e0.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/profile-about-light-556d2159f9.svg" /><img src="assets/profile-about-light-556d2159f9.svg" alt="About me: C# and Java; Korean, Japanese and English; Unity and Blender." width="24.5%" /></picture>
   <picture>
@@ -12,6 +6,12 @@
     <img src="assets/profile-workspace-light-43b9d04044.svg" alt="My workspace, modeled in Blender" width="73.5%" />
   </picture>
 </p>
+
+<!-- project-timeline:start -->
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-timeline-dark-6560b82be6.svg" /><img src="assets/profile-timeline-light-4b37e44d8a.svg" alt="Miniworld: 2026.10 — Present; Pixel Mat: 2026.09 — Present; 바로 영업: 2026.08 — Present; Idea2Strategy: 2026.07 — 2026.08; Shimanami Ekranoplan: 2024.12 — 2025.01; Shinjuku Live Street: 2024.04 — Present" width="100%" /></picture>
+</p>
+<!-- project-timeline:end -->
 
 ## Projects
 
